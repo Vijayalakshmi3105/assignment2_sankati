@@ -35,3 +35,27 @@ This table info is having Jermany, Japan, India and USA country details
 > The road to hell is paved with adverbs - *Stephen King*
 
 > A synonym is a word you use when you can't spell the other one - *Baltasar Gracian*
+
+---
+## HTML Stack Overflow
+
+> [How can I paste HTML markup into a Stack Overflow question field?](https://meta.stackexchange.com/questions/110126/how-can-i-paste-html-markup-into-a-stack-overflow-question-field)
+
+```
+
+ <form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+
+``` 
+
+[Code_Snippets_HTML](https://css-tricks.com/snippets/html/post-data-to-an-iframe/) 
+
+[AboutMe](AboutMe.md)
