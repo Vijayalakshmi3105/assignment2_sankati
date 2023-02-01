@@ -28,3 +28,10 @@ This table info is having Jermany, Japan, India and USA country details
 | Japan            |Trecking place to do adventures| 6 |
 |India             |Holistic places to visit where we get peace |   10 |
 |USA               |To feel historical attractions   | 7 | 
+
+---
+### Funny Quotations 
+
+> The road to hell is paved with adverbs - *Stephen King*
+
+> A synonym is a word you use when you can't spell the other one - *Baltasar Gracian*
