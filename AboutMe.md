@@ -1,0 +1,2 @@
+### Sankati Vijaya Lakshmi
+I completed my bachelor's in computer science and later worked for 4 years and now pursuing masters in NWMSU to enreach my future goals. ![Adding my photo to AboutMe ](Vijaya.jpg) 
